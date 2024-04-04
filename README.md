@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **DSA and Web Development**
 
-- 📫 How to reach me **jeevan710710@gmail.com**
+- 📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeevan710710@gmail.com)](mailto:jeevan710710@gmail.com) 
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1LXdQVpwm5WZoZ-kWF5Ah1U1RWHLDcIUv/view?usp=drive_link](https://drive.google.com/file/d/1LXdQVpwm5WZoZ-kWF5Ah1U1RWHLDcIUv/view?usp=drive_link)
 
